@@ -27,8 +27,8 @@ export const RESUME_DATA = {
   about:
     "无所事事的小混混",
   summary:
-    "性别男，爱好女",
-  avatarUrl: "https://telegraph-image-5m5.pages.dev/file/54214ec94d78d0498e813.jpg",
+    "性别男，爱好女。2008年《感动中国》年度人物特别奖，《美国周刊》2006年年度风云人物。",
+  avatarUrl: "https://telegraph-image-5m5.pages.dev/file/e42808335519e8d6f46e6.jpg",
   personalWebsiteUrl: "https://www.liaozhangsheng.icu",
   contact: {
     email: "liaozhangsheng@163.com",
@@ -92,6 +92,71 @@ export const RESUME_DATA = {
     "Linux",
   ],
   projects: [
+    {
+      title: "C++ / OpenCV 魔方识别并还原",
+      techStack: [
+        "C++",
+        "OpenCV",
+      ],
+      description: "使用 OpenCV 对魔方进行识别，并使用 Kociemba 算法（C++实现）做到10 ms 还原魔方",
+      logo: ConsultlyLogo,
+      link: {
+        label: "consultly.com",
+        href: "https://www.bilibili.com/video/BV1sS421P78z",
+      },
+    },
+    {
+      title: "C++ / OpenCV 魔方识别并还原",
+      techStack: [
+        "C++",
+        "OpenCV",
+      ],
+      description: "使用 OpenCV 对魔方进行识别，并使用 Kociemba 算法（C++实现）做到10 ms 还原魔方",
+      logo: ConsultlyLogo,
+      link: {
+        label: "consultly.com",
+        href: "https://www.bilibili.com/video/BV1sS421P78z",
+      },
+    },
+    {
+      title: "C++ / OpenCV 魔方识别并还原",
+      techStack: [
+        "C++",
+        "OpenCV",
+      ],
+      description: "使用 OpenCV 对魔方进行识别，并使用 Kociemba 算法（C++实现）做到10 ms 还原魔方",
+      logo: ConsultlyLogo,
+      link: {
+        label: "consultly.com",
+        href: "https://www.bilibili.com/video/BV1sS421P78z",
+      },
+    },
+    {
+      title: "C++ / OpenCV 魔方识别并还原",
+      techStack: [
+        "C++",
+        "OpenCV",
+      ],
+      description: "使用 OpenCV 对魔方进行识别，并使用 Kociemba 算法（C++实现）做到10 ms 还原魔方",
+      logo: ConsultlyLogo,
+      link: {
+        label: "consultly.com",
+        href: "https://www.bilibili.com/video/BV1sS421P78z",
+      },
+    },
+    {
+      title: "C++ / OpenCV 魔方识别并还原",
+      techStack: [
+        "C++",
+        "OpenCV",
+      ],
+      description: "使用 OpenCV 对魔方进行识别，并使用 Kociemba 算法（C++实现）做到10 ms 还原魔方",
+      logo: ConsultlyLogo,
+      link: {
+        label: "consultly.com",
+        href: "https://www.bilibili.com/video/BV1sS421P78z",
+      },
+    },
     {
       title: "C++ / OpenCV 魔方识别并还原",
       techStack: [
